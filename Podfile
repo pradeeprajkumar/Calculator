@@ -6,6 +6,7 @@ target 'Calculator' do
   use_frameworks!
 
 pod 'ComputeFramework', :git => 'https://github.com/pradeeprajkumar/ComputeFramework.git'
+#, :tag => '1.0.0'
 
   # Pods for Calculator
 
