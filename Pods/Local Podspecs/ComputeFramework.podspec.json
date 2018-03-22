@@ -1,6 +1,6 @@
 {
   "name": "ComputeFramework",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Compute framework is a sample framework",
   "homepage": "https://github.com/pradeeprajkumar/ComputeFramework",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/pradeeprajkumar/ComputeFramework.git",
-    "tag": "1.0.1"
+    "tag": "1.1.0"
   },
   "ios": {
     "vendored_frameworks": "ComputeFramework.framework"

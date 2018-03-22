@@ -1,5 +1,5 @@
 PODS:
-  - ComputeFramework (1.0.1)
+  - ComputeFramework (1.1.0)
 
 DEPENDENCIES:
   - ComputeFramework (from `https://github.com/pradeeprajkumar/ComputeFramework.git`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   ComputeFramework:
-    :commit: f0cab988610c1be9608afdd966a7353b1d34c091
+    :commit: f1891a67b8d9f9eccacbe5fe204c9527aad01bec
     :git: https://github.com/pradeeprajkumar/ComputeFramework.git
 
 SPEC CHECKSUMS:
-  ComputeFramework: 0ddfa5a230d7f8847ce5cf8b9aac30ddf8883518
+  ComputeFramework: 741620ac1ac28cc5222a7aa817b9b5485feb3547
 
 PODFILE CHECKSUM: c478c5e3e1e12534d74ff60ffc3d3f75ea1bdd5a
 
