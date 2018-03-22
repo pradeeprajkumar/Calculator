@@ -1,0 +1,10 @@
+framework module ComputeFramework {
+  umbrella header "ComputeFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module ComputeFramework.Swift {
+    header "ComputeFramework-Swift.h"
+}

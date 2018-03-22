@@ -1,0 +1,21 @@
+PODS:
+  - ComputeFramework (1.0.1)
+
+DEPENDENCIES:
+  - ComputeFramework (from `https://github.com/pradeeprajkumar/ComputeFramework.git`)
+
+EXTERNAL SOURCES:
+  ComputeFramework:
+    :git: https://github.com/pradeeprajkumar/ComputeFramework.git
+
+CHECKOUT OPTIONS:
+  ComputeFramework:
+    :commit: f0cab988610c1be9608afdd966a7353b1d34c091
+    :git: https://github.com/pradeeprajkumar/ComputeFramework.git
+
+SPEC CHECKSUMS:
+  ComputeFramework: 0ddfa5a230d7f8847ce5cf8b9aac30ddf8883518
+
+PODFILE CHECKSUM: c478c5e3e1e12534d74ff60ffc3d3f75ea1bdd5a
+
+COCOAPODS: 1.4.0
